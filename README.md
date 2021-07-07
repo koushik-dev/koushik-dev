@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Koushik
 - 👀 I’m interested in Fronrend.
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate on Frontend Projects as freelancer
 
 <!---
